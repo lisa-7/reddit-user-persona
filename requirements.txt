@@ -1,0 +1,5 @@
+praw
+openai
+requests
+tiktoken
+openai>=1.0.0
